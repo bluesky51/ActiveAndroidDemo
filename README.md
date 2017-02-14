@@ -1,4 +1,4 @@
-ActiveAndroid的使用说明：
+ActiveAndroid的使用说明：  
 1.配置:
  project下的build.gradle中操作如下：
 
